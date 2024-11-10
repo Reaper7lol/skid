@@ -4,9 +4,9 @@
 
 ---
 
-## ⚡ About CodeScraper
+## ⚡ About Skid
 
-**CodeScraper** is a powerful web scraping tool designed specifically to **extract code snippets** (HTML, JavaScript, CSS, etc.) from websites. Whether you're a skid looking for src codes, a researcher gathering code data, or a cybersecurity expert analyzing web structure, **Skid** gets the job done fast and clean.  
+**Skid** is a powerful web scraping tool designed specifically to **extract code snippets** (HTML, JavaScript, CSS, etc.) from websites. Whether you're a skid looking for src codes, a researcher gathering code data, or a cybersecurity expert analyzing web structure, **Skid** gets the job done fast and clean.  
 
 This tool is built with **Skidity** in mind. It's light on resources but heavy on power. Get the code you need, when you need it, without the hassle.
 
@@ -28,4 +28,4 @@ This tool is built with **Skidity** in mind. It's light on resources but heavy o
 
 Get **Skid** up and running in seconds. Follow these steps:
 
-1. **Clone the Repository**:
+1. Download, and open the main.py file.
